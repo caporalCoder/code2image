@@ -3,6 +3,10 @@
 
   Turn code snippets into shareable images with a simple, themed UI.
 
+  ## Live Demo
+
+  https://code-to-image-123.web.app/
+
   ## Running the code
 
   - Run `npm i` to install dependencies
